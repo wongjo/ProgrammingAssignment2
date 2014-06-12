@@ -1,5 +1,5 @@
 ## These 2 functions will create a numeric matrix x and the calculated inverse
-## matrix m, ## where x %*% m = I, I is the identity matrix, cached in the 
+## matrix m, where x %*% m = I, I is the identity matrix, cached in the 
 ## global environment workspace of R.
 
 
